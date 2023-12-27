@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html>
+<?xml-stylesheet type='text/xsl' href='profilexsl.xsl'?>
+                
+<PAGE>
+    <PROFILE>
+        <ID>ID: {$user['Pid']}</ID>
+        <FNAME>First Name: {$user['pfname']}</FNAME>
+        <LNAME>Last Name: {$user['plname']}</LNAME>
+        <AGE>Age: {$user['age']}</AGE>
+        <GENDER>Gender: {$user['gen']}</GENDER>
+        <BLOODTYPE>Blood Type: {$user['blood_type']}</BLOODTYPE>
+        <PHONE>Contact No.: {$user['p_contact']}</PHONE>
+        <EMAIL>Email ID: {$user['p_email']}</EMAIL>
+    </PROFILE>
+</PAGE>

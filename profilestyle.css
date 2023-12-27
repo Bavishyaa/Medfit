@@ -1,0 +1,30 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #458ff6;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+div {
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
